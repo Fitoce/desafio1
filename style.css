@@ -167,7 +167,7 @@ textarea{
     font-weight: bold;
     font-size: 22px;
 }
-@media (max-width:800px){
+@media (max-width:780px){
     body{
         width: 720px;
         height: auto
@@ -210,7 +210,7 @@ textarea{
     #btnDesencriptar{
         width: 90%;
     }   
-   
+}  
 @media (max-width:400px){
     body{
         width: 350px;
