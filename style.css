@@ -1,4 +1,6 @@
 body{
+    width: 1024;
+    height: auto;
     margin: 0;
     padding: 0;
     background-color: #030525;
@@ -166,7 +168,6 @@ textarea{
     font-size: 22px;
 }
 @media (max-width:400px){
-    #central{
-        flex-direction: column;
+    body{
     }
 }
